@@ -1,0 +1,6 @@
+/home/plamedi/Documents/repos/pocket/slambook2/ch2/CMakeFiles/helloSLAM.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch2/CMakeFiles/hello.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch2/CMakeFiles/hello_shared.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch2/CMakeFiles/useHello.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch2/CMakeFiles/edit_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch2/CMakeFiles/rebuild_cache.dir

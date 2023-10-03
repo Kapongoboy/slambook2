@@ -1,3 +1,4 @@
+#include <memory>
 #include <iostream>
 #include <g2o/core/g2o_core_api.h>
 #include <g2o/core/base_vertex.h>
@@ -88,7 +89,7 @@ int main(int argc, char **argv) {
 
   // 梯度下降方法，可以从GN, LM, DogLeg 中选
   auto solver = new g2o::OptimizationAlgorithmGaussNewton(
-    g2o::make_unique<BlockSolverType>(g2o::make_unique<LinearSolverType>()));
+    std::make_unique<BlockSolverType>(std::make_unique<LinearSolverType>()));
   g2o::SparseOptimizer optimizer;     // 图模型
   optimizer.setAlgorithm(solver);   // 设置求解器
   optimizer.setVerbose(true);       // 打开调试输出

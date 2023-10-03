@@ -1,0 +1,15 @@
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/CMakeFiles/edit_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/CMakeFiles/rebuild_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/useEigen/CMakeFiles/eigenMatrix.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/useEigen/CMakeFiles/edit_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/useEigen/CMakeFiles/rebuild_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/useGeometry/CMakeFiles/eigenGeometry.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/useGeometry/CMakeFiles/edit_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/useGeometry/CMakeFiles/rebuild_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/visualizeGeometry/CMakeFiles/visualizeGeometry.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/visualizeGeometry/CMakeFiles/edit_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/visualizeGeometry/CMakeFiles/rebuild_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/examples/CMakeFiles/coordinateTransform.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/examples/CMakeFiles/plotTrajectory.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/examples/CMakeFiles/edit_cache.dir
+/home/plamedi/Documents/repos/pocket/slambook2/ch3/examples/CMakeFiles/rebuild_cache.dir
